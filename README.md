@@ -1,2 +1,5 @@
-# fntp-tools
-Fntp's collection of commonly used Java utility classes.
+### FNTP Tools
+FntpTools 是程序猿fntp自己的Java开发工具集合
+为了节省自己的工作时间，私活时间，特定将自己常用的复用率高的代码按照开发依赖版本进行整合
+提升效率
+降低耦合
